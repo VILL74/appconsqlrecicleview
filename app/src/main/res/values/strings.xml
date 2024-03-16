@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">appiub</string>
+    <string name="titulo_iub">IUB</string>
+    <string name="login">Login</string>
+    <string name="welcome">Bienvenido de nuevo!</string>
+    <string name="login2">Iniciar sesión</string>
+    <string name="register">Register</string>
+    <string name="register2">Registrar</string>
+    <string name="email">Correo electrónico</string>
+    <string name="password">Contraseña</string>
+    <string name="names">Nombres</string>
+    <string name="cellphone">Numero de celular</string>
+    <string name="sendcode">Enviar Codigo</string>
+    <string name="forgotpassword">Olvide mi contraseña</string>
+    <string name="noaccount">¿No tienes una cuenta?</string>
+    <string name="registernow">Regístrate ahora</string>
+    <string name="forgotpassword2">¿Haz olvidado tu Contraseña?</string>
+    <string name="dontworry">¡No te preocupes! Por favor ingrese la dirección de correo electrónico vinculada con su cuenta.</string>
+    <string name="welcomeregister">¡Hola! Regístrese para comenzar</string>
+    <string name="haveaccount">¿Ya tienes una cuenta?</string>
+    <string name="loginnow">Inicia sesión ahora</string>
+    <string name="hello">Hola,IUB</string>
+    <string name="btnphonecall">Call</string>
+    <string name="btnemail">Email</string>
+    <string name="btnmsn">MSN</string>
+    <string name="editdata">Editar datos</string>
+    <string name="update">¡Hola! Quieres actualizar tus datos</string>
+    <string name="logoutsesion">Cerrar Sesión</string>
+    <string name="edit">Edit</string>
+    <string name="user">Usuario</string>
+
+
+
+</resources>
