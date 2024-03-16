@@ -78,7 +78,7 @@ class Update : AppCompatActivity() {
                 val intent = Intent(this, Profile::class.java)
                 startActivity(intent)
                 Toast.makeText(this, "Actualizado Correctamente", Toast.LENGTH_SHORT).show()
-
+                finish()
             } else {
                 Toast.makeText(this, "Todos los campos son requeridos", Toast.LENGTH_SHORT).show()
             }
@@ -90,6 +90,7 @@ class Update : AppCompatActivity() {
         btnback.setOnClickListener{
             val intent = Intent(this, Profile::class.java )
             startActivity(intent)
+            finish()
         }
     }
 

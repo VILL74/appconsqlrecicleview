@@ -123,6 +123,14 @@ class Profile : AppCompatActivity() {
         val intent=Intent(this,Login::class.java)
         startActivity(intent)
     }
+    override fun onResume() {
+        super.onResume()
+        loadUserData()
+    }
+
+    private fun loadUserData() {
+        userviewmodel.getUsers()
+    }
 
 
 }
